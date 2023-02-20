@@ -1,7 +1,7 @@
 import React from 'react'
 // import StarRating from './components/StarRating'
 import Contact from './contents/Contact'
-import Tp2 from './contents/tp2'
+import Tp2 from './contents/Tp2'
 // import  Search from './components/Search'
 // import ContactForm from './components/ContactForm'
 // import Memo from './components/memo'
